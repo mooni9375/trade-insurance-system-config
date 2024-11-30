@@ -1,2 +1,6 @@
 gateway:
-    ip: 172.20.10.7
+    ip: 192.168.35.207
+
+token:
+  expiration_time: 86400000
+  secret: user_token_over_abcdefghijklmnopqrstuvwxyz_finished
