@@ -3,4 +3,4 @@ gateway:
 
 token:
   expiration_time: 86400000
-  secret: my_token_dev_bus_refresh_test
+  secret: my_token_dev_bus_test
