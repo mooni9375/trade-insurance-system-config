@@ -3,4 +3,4 @@ gateway:
 
 token:
   expiration_time: 86400000
-  secret: my_token_dafault
+  secret: my_token_dafault_bus
